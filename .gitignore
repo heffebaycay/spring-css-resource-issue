@@ -1,0 +1,6 @@
+# IntelliJ Related Elements
+.idea/
+*.iml
+
+# Build items
+target/
